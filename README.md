@@ -16,7 +16,7 @@
 
 I am a **Data Platform Engineer and Analytics Engineer** with 5+ years of experience across data engineering, analytics engineering and business intelligence.
 
-I build reliable data platforms and analytical solutions — from ingestion and transformation to modelling, reporting and decision-ready insights. My experience spans **AWS, Azure, Microsoft Fabric, Snowflake, BigQuery, dbt, Airflow, Terraform, Docker, Python, SQL and Power BI**.
+I build reliable data platforms and analytical solutions — from ingestion and transformation to modelling, reporting and decision-ready insights. My experience spans **AWS, Azure, Microsoft Fabric, Snowflake, BigQuery, CI/CD dbt, Airflow, Terraform, Docker, Python, SQL and Power BI**.
 
 My work has included designing ETL/ELT pipelines, building cloud data platforms, implementing analytics engineering workflows, improving data quality, automating reporting, and developing business intelligence solutions across fintech, aviation, healthcare technology and retail.
 
@@ -150,8 +150,7 @@ I share practical content on **data engineering, analytics engineering, Microsof
 [![Newsletter](https://img.shields.io/badge/Newsletter-Modern%20Data%20Stack%20With%20Musili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/modern-data-stack-with-musili-7317820585554644992/)
 [![Medium](https://img.shields.io/badge/Medium-@musiliadebayo-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@musiliadebayo)
 [![TikTok](https://img.shields.io/badge/TikTok-@musili__adebayo-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@musili_adebayo)
-[![Email](https://img.shields.io/badge/Email-adebayomusili%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebayomusili@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebayomusili@gmail.com)
 </div>
 
 ---
